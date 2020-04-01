@@ -1,7 +1,7 @@
 # go-grokking-algorithms
 Go (Golang) code samples for Grokking Algorithm book by Aditya Y. Bhargava
 ## Proof of work
-You can make sure it works by running tests by running tests, which are located in directory with every code sample.
+You can make sure it works by running tests, which are located in directory with every code sample.
 
 Run them all at once:
 
